@@ -1,7 +1,7 @@
 # Yii2 Async
 
-[![Latest Stable Version](https://poser.pugx.org/vxm/yii2-async/v/stable)](https://packagist.org/packages/vxm/yii2-async)
-[![Total Downloads](https://poser.pugx.org/vxm/yii2-async/downloads)](https://packagist.org/packages/vxm/yii2-async)
+[![Latest Stable Version](https://poser.pugx.org/erdiertas/yii2-async/v/stable)](https://packagist.org/packages/erdiertas/yii2-async)
+[![Total Downloads](https://poser.pugx.org/erdiertas/yii2-async/downloads)](https://packagist.org/packages/erdiertas/yii2-async)
 [![Build Status](https://travis-ci.org/vuongxuongminh/yii2-async.svg?branch=master)](https://travis-ci.org/vuongxuongminh/yii2-async)
 [![Code Coverage](https://scrutinizer-ci.com/g/vuongxuongminh/yii2-async/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/vuongxuongminh/yii2-async/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/vuongxuongminh/yii2-async/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/vuongxuongminh/yii2-async/?branch=master)
@@ -21,7 +21,7 @@ An extension provide an easy way to run code asynchronous and parallel base on [
 Require Yii2 Async using [Composer](https://getcomposer.org):
 
 ```bash
-composer require vxm/yii2-async
+composer require erdiertas/yii2-async
 ```
 
 ## Usage

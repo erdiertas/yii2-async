@@ -1,5 +1,5 @@
 {
-    "name": "vxm/yii2-async",
+    "name": "erdiertas/yii2-async",
     "description": "Provide an easy way to run code asynchronously for Yii2 application",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","yii2-async","async","php-async"],
@@ -12,8 +12,8 @@
     ],
     "require": {
         "php": "^7.1",
-        "yiisoft/yii2": "~2.0.13",
-        "spatie/async": "~1.0.0"
+        "yiisoft/yii2": "^2.0.13",
+        "spatie/async": "^1.0.0"
     },
     "require-dev": {
         "symfony/stopwatch": "^4.0"
